@@ -1,0 +1,4 @@
+node_modules
+.env
+visasTektas.js
+./client/node_modules
